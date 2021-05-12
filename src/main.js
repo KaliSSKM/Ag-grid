@@ -10,7 +10,7 @@ import "../node_modules/@ag-grid-enterprise/all-modules/dist/styles/ag-theme-alp
 
 import { AllModules } from "@ag-grid-enterprise/all-modules";
 import { LicenseManager } from "@ag-grid-enterprise/core";
-LicenseManager.setLicenseKey("MTYyNTg3MTYwMDAwMA==fc7fe9235bb1e7b6c832bd2d53e7cd8a");
+LicenseManager.setLicenseKey("License Key");
 
 Vue.component(AgGridVue)
 Vue.component(AllModules)
